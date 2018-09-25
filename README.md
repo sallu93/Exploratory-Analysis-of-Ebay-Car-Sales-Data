@@ -41,7 +41,7 @@ The data dictionary provided with data is as follows:
 
 - dateCreated: The date on which the eBay listing was created.
 
--nrOfPictures: The number of pictures in the ad.
+- nrOfPictures: The number of pictures in the ad.
 
 - postalCode: The postal code for the location of the vehicle.
 
