@@ -4,6 +4,8 @@ The aim of this project is to clean the Ebay car sales data and analyze the incl
 We will be working on a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 Dataset file: 'autos.csv'
 
+## Data Description
+
 The dataset was originally scraped and uploaded to Kaggle. The version of the dataset we are working with is a sample of 50,000 data points that was prepared by Dataquest including simulating a less-cleaned version of the data.
 
 The data dictionary provided with data is as follows:
@@ -48,9 +50,10 @@ The data dictionary provided with data is as follows:
 
 - lastSeenOnline: When the crawler saw this ad last online.
 
+## Other Info
 
-Concepts used in the project: pandas and numpy modules in Python
+Concepts used in the project: pandas and numpy modules in Python.
 
-Programming Language: Python
+Programming Language: Python.
 
-Environment: Jupyter
+Environment: Jupyter.
